@@ -8,6 +8,6 @@
 - Perugachi Luis
 - Ramírez Henry
   
-**Asignatura**: Verificación y Validación de Software
-**Fecha**: 2024-01-01
-**Docente**: Ing. Cathy Guevara
+**Asignatura**: Verificación y Validación de Software  
+**Fecha**: 2024-01-01  
+**Docente**: Ing. Cathy Guevara  
