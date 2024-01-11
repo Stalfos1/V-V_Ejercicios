@@ -9,7 +9,7 @@
 - Ramírez Henry
   
 **Asignatura**: Verificación y Validación de Software  
-**Fecha**: 2024-01-01  
+**Fecha**: 2024-01-19  
 **Docente**: Ing. Cathy Guevara  
 
 ## Tareas
